@@ -3,7 +3,7 @@
   <p align="center">
     A Simple Expense Tracker!
     <br/>
-    <a href="glittering-tiramisu-d8d5df.netlify.app"><strong>View Demo »</strong></a>
+    <a href="https://glittering-tiramisu-d8d5df.netlify.app/"><strong>View Demo »</strong></a>
     <br/>
     
   </p>
